@@ -3,6 +3,6 @@
   [Underscore's each](http://underscorejs.org/#each) function packed as a [component](https://github.com/component/component)
 
 
-### npm
+### Deprecated
 
-Use [manuelstofer/foreach](htt://www.github.com/manuelstofer/foreach) if plan to publish your component on npm.
+Please use [manuelstofer/foreach](htt://www.github.com/manuelstofer/foreach) instead!
